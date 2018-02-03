@@ -5,7 +5,9 @@ Sawyer Beer (Coke) Bottle Grabber
 #### Goup members:  [Mengjiao Hong](https://github.com/MuMu1018), [Ben Don](https://github.com/benbdon), [Weilin Ma](https://github.com/KansoW) , [Huaiyu Wang](https://github.com/whycn), [Felix Wang](https://github.com/yanweiw)
 ---------------------------------------------
 
-[![sawyer_coke](https://img.youtube.com/vi/asuPnFKfNog/0.jpg)](https://www.youtube.com/watch?v=asuPnFKfNog)
+<!-- [![sawyer_coke](https://img.youtube.com/vi/asuPnFKfNog/0.jpg)](https://www.youtube.com/watch?v=asuPnFKfNog) -->
+
+[![sawyer_coke](https://img.youtube.com/vi/asuPnFKfNog/0.jpg)](https://www.youtube.com/watch?v=LEMvSSeDHZU&feature=youtu.be)
 
 #### Table of Contents ####
 
