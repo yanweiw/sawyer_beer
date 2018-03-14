@@ -60,3 +60,5 @@ In this state, a service is written that provides the pose information of the AR
 
 #### 2. Moving and gripping <a name="Movement"></a>
 In this state, the gripper initializes to open. The collision objects are added to the scene. Sawyer's gripper moves to a home position that ensures the AR tag is visible by the wrist camera. Next, the node gets the AR tag pose information and calibrates it to a desired end effector position (ie where the bottle is located relative to the tag). The joint angles of the end effector in the desired orientation are computed and validated to ensure no collisions. Then the motion plan is calculated using collision information. Assuming no errors, the bottle moves to target, grips the bottle, and moves it to release position where the grip loosens enough to let the user pull the bottle out.
+
+For more information, you can find me at my [portfolio page](https://yanweiw.github.io/).
